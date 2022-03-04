@@ -1,1 +1,2 @@
-cat "touch" > up_to_date
+git pull
+touch up_to_date 
