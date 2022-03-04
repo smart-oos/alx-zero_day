@@ -1,2 +1,2 @@
-Alx schoolis cool
+Alx school is cool
 
