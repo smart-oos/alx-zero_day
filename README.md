@@ -1,1 +1,2 @@
-My first readme
+ALX course is great
+with grit
